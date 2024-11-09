@@ -1,5 +1,3 @@
-
-
 <main>
     <header>
       <h1>Welcome to Thinder!</h1>
@@ -36,7 +34,8 @@
  
     <div class="button-cont">
         <button>
-            <p>Button goes here</p>
+            <p>Test Button</p>
+            
         </button>
     </div>
   </main>
