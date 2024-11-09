@@ -1,3 +1,5 @@
+
+
 <main>
     <header>
       <h1>Welcome to Thinder!</h1>
@@ -40,60 +42,5 @@
     </div>
   </main>
  
-  <style>
-    main {
-      font-family: Arial, sans-serif;
-      max-width: 1680px;
-      margin: 0 auto;
-      padding: 20px;
-      background-color: #f2fa7d;
-     
-    }
- 
-    header {
-      background-color: #6ada6d;
-      color: white;
-      padding: 10px;
-      text-align: center;
-     
-    }
- 
-    header h1 {
-      margin: 0;
-    }
-   
-
-
-
-
-    .intro, .features {
-      margin-top: 15px;
-     
-    }
- 
-    .features ul {
-      list-style-type: square;
-      padding-left: 20px;
-    }
- 
-    button {
-      border: 0;
-      text-align: center;
-      margin-top: 40px;
-      padding: 20px 500px;
-      background-color: #ff4242;
-      color: white;
-      cursor: pointer;
-     
-
-
-    }
-
-
-    .button-cont{
-        display : flex;
-        justify-content: center;
-    }
-  </style>
  
  
